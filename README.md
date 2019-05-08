@@ -2,8 +2,7 @@
 
 Model:
 
-* Ruby version
-
+![Entity Relationship Diagram](./db_diagram.png)
 
 Controllers:
 
@@ -13,4 +12,3 @@ Views:
 
 * Ruby version
 
-![Entity Relationship Diagram](./db_diagram.png)
