@@ -17,10 +17,10 @@
 3-Main Model:
 our main model will contain this three models
 
-	* Users model : To generate the user model we will use the gem Devise.
+* Users model : To generate the user model we will use the gem Devise.
 
-	* Posts model : user can create many posts and share them
-	* Comments model : users can comment posts
+* Posts model : user can create many posts and share them
+* Comments model : users can comment posts
 
 4-Relationships models
 * freindship : user has many freindships
