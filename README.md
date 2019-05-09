@@ -3,10 +3,11 @@
  In this project we have to build an application whose fonctionnalities are similar to that of Facebook.
 
  1-Prerequisites:
- 	* Ruby & Rails
- 	* Postgres
- 	* Heroku
- 	* Git
+ * Ruby & Rails
+ * Postgres
+ * Heroku
+ * Git
+ 
  2-How we will create our social networking site?
  We need to create three systems:
  	* a system for managing users
