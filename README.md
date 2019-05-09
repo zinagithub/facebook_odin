@@ -32,27 +32,27 @@ our main model will contain this three models
 
 **Controllers:**
 * Users :
- * authentication with devise gem. Users must sign in to see anything except the sign in page
- * user can sign in with facebook (done with omniauth gem)
+  * authentication with devise gem. Users must sign in to see anything except the sign in page
+  * user can sign in with facebook (done with omniauth gem)
 * Posts :
- * user can create posts
- * user can edit and delete his and only his posts
+  * user can create posts
+  * user can edit and delete his and only his posts
 * Likes:
- * user is able to like and unlike posts without page refresh 
+  * user is able to like and unlike posts without page refresh 
 * Comments
- * user is able to comment on posts
- * user can edit and delete his and only his comments
+  * user is able to comment on posts
+  * user can edit and delete his and only his comments
 * Friend requests:
- * user can send and and accept and refuse friend requests without page refresh
+  * user can send and and accept and refuse friend requests without page refresh
 
 **Views:**
 * Users:
- * show: has profile information, gravatar and user's posts
- * index - all users with a button to send a friend request
- * new
- * edit
+  * show: has profile information, gravatar and user's posts
+  * index - all users with a button to send a friend request
+  * new
+  * edit
 * Posts:
- * index - displays posts from current user and current user's friends
- * post always displays it's content, author likes and comments
+  * index - displays posts from current user and current user's friends
+  * post always displays it's content, author likes and comments
 * Friend requests:
- * notification page with all requests user has pending 
+  * notification page with all requests user has pending 
