@@ -4,7 +4,7 @@
 
  **Prerequisites:**
  * Ruby
- * Ruby on
+ * Ruby on Rails
  * SQL
  * Heroku
  * Git
@@ -54,6 +54,5 @@ our main model will contain this three models
 * Posts:
  1. index - displays posts from current user and current user's friends
  1. post always displays it's content, author likes and comments
-* notifications page for friend requests 
-* Posts Controllers : Authentificated user needs to share content, we will use scafolding to generate the basic CRUD for post.
-* Comments controller : same thing of posts controllers
+* Friend requests:
+ 1. notification page with all requests user has pending 
